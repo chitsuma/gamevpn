@@ -1,201 +1,86 @@
 {
    "files": [    
 {
-         "name": "SG-FREE-001",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-001.ovpn"
-       },
-
-{
-         "name": "SG-FREE-002",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-002.ovpn"
-       },
-
-{
-         "name": "SG-FREE-003",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-003.ovpn"
-        },
-{
-         "name": "SG-FREE-004",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-004.ovpn"
-      },
-{
-         "name": "SG-FREE-005",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-005.ovpn"
-      },
-{
-         "name": "SG-FREE-006",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-006.ovpn"
-      },
-{
-         "name": "SG-FREE-007",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-007.ovpn"
-       },
-
-{
-         "name": "SG-FREE-008",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-008.ovpn"
-        },
-{
-         "name": "SG-FREE-009",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-009.ovpn"
-      },
-{
-         "name": "SG-FREE-010",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-010.ovpn"
-      },
-{
-         "name": "SG-FREE-011",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-011.ovpn"
-       },
-
-{
-         "name": "SG-FREE-012",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-012.ovpn"
-       },
-
-{
-         "name": "SG-FREE-013",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-013.ovpn"
-        },
-{
-         "name": "SG-FREE-014",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-014.ovpn"
-      },
-{
-         "name": "SG-FREE-015",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-015.ovpn"
-      },
-{
-         "name": "SG-FREE-016",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-016.ovpn"
-       },
-
-{
-         "name": "SG-FREE-017",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-017.ovpn"
-       },
-
-{
-         "name": "SG-FREE-018",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-018.ovpn"
-        },
- {
-         "name": "SG-FREE-019",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-019.ovpn"
-       },
-
-{
-         "name": "SG-FREE-020",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-020.ovpn"
-       },
-
-
-{
-         "name": "SG-FREE-021",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-021.ovpn"
-        },
-{
-         "name": "SG-FREE-022",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-022.ovpn"
-      },
-{
-         "name": "SG-FREE-023",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-023.ovpn"
-      },
-{
-         "name": "SG-FREE-024",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-024.ovpn"
-      },
-{
-         "name": "SG-FREE-025",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/SG-FREE-025.ovpn"
-      },
-{
          "name": "TH-FREE-001",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE001.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-001.ovpn"
       },
 {
          "name": "TH-FREE-002",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE002.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-002.ovpn"
       },
 {
          "name": "TH-FREE-003",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE003.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-003.ovpn"
       },
 {
          "name": "TH-FREE-004",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE004.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-004.ovpn"
       },
 {
          "name": "TH-FREE-005",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE005.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-005.ovpn"
       },
 {
          "name": "TH-FREE-006",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE006.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-006.ovpn"
        },
 
 {
          "name": "TH-FREE-007",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE007.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-007.ovpn"
        },
 
 {
          "name": "TH-FREE-008",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE008.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-008.ovpn"
         },
 {
          "name": "TH-FREE-009",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE009.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-009.ovpn"
       },
 {
          "name": "TH-FREE-010",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE010.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-010.ovpn"
       },
 {
          "name": "TH-FREE-011",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE011.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-011.ovpn"
     },
 {
          "name": "TH-FREE-012",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE012.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-012.ovpn"
       },
 {
          "name": "TH-FREE-013",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE013.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-013.ovpn"
       },
 {
          "name": "TH-FREE-014",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE014.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-014.ovpn"
       },
 {
          "name": "TH-FREE-015",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/TH-GAME-FREE015.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/TH-FREE-015.ovpn"
       },
 {
          "name": "US-ADS-FREE-001",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/US-FREE-001.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/US-FREE-001.ovpn"
       },
 {
          "name": "US-ADS-FREE-002",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/US-FREE-002.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/US-FREE-002.ovpn"
       },
 {
          "name": "US-ADS-FREE-003",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/US-FREE-003.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/US-FREE-003.ovpn"
       },
 {
          "name": "US-ADS-FREE-004",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/US-FREE-004.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/US-FREE-004.ovpn"
       },
 {
          "name": "US-ADS-FREE-005",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/up2/main/US-FREE-005.ovpn"
-      },
-
-{
-         "name": "SG-VPS-VIP-001",
-         "url": "https://raw.githubusercontent.com/PaingPainghein/updated1/main/SG-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/chitsuma/ovpnggbro/main/US-FREE-005.ovpn"
       },
 
 {
@@ -247,17 +132,14 @@
        }
 
    ],
-"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞 now📩\n•Version:3\n
-•PPH-VPN
-•🇸🇬SG.FREE 25ဖိုင်
-•🇱🇷US.FREE 5ဖိုင် 
-•🇹🇭𝐓𝐇.FREE 15 ဖိုင်
-•🇹🇭𝐓𝐇.𝐕𝐈𝐏  10 ဖိုင်
-•🇹🇭SG.𝐕𝐈𝐏 1ဖိုင်
-•VIPတလ၅၀ဘတ်နဲ့လာအားပေးလို့ရပါတယ်\n
-•VIP ဝယ်ချင်ပါက 👇👇👇နိုပ်ပြီးလဲလာဝယ်လို့ရပါတယ်
+"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞 now📩\n•Version:1\n
+•GAME-VPN
+•🇹🇭TH-FREE-15ဖိုင်🕹🕹
+•🇱🇷US-FREE-5ဖိုင်⏰⏰
+•VIPတလ၅၀ဘတ်နဲ့လာအားပေးလို့ရပါတယ်\n•VIP ဝယ်ချင်ပါက 👇👇👇နိုပ်ပြီးလဲလာဝယ်လို့ရပါတယ်
 •https://m.me/chitsu.khin.77770 \n
-•TRUE🇹🇭DTAနှစ်မျိုးချိတ်လို့ရပါတယ်\n•\n•𝐀𝐝𝐝 𝐃𝐓𝐀𝐂&𝐓𝐫𝐮𝐞𝐌𝐨𝐯𝐞💯𝐍𝐨𝐅𝐫𝐞𝐞\n•အားပေးမှုအတွက်ကျေးဇူးပါ🥰🙏\n•PaingPainghein\n•ChitSuKhin",
+•TRUE🇹🇭DTAနှစ်မျိုးချိတ်လို့ရပါတယ်\n•\n
+•ဂိမ်းများဆော့လို့ရပါတယ်\n•အားပေးမှုအတွက်ကျေးဇူးပါ🥰🙏\n•ဖိုင်များစမ်းပြီးမှသုံးပါ😊\n•Paing Paing Hein",
    "title":"💌𝐀𝐝𝐝 𝐍𝐞𝐰 FREE&VIP💌" ,
    "version": 1
 }
