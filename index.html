@@ -5,8 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DTunnel_s
-        _t_project_edi</title>
+    <title>PPH-VPN-V2ray-Src</title>
 </head>
 <style>
     * {
@@ -958,10 +957,10 @@
                     width: '100%',
                 });
                 component.element.innerHTML = `
-                    <span style="color: ${CHECKUSER_TEXT_COLOR}">👤Nome de usuario: ${data.username}</span>
-                    <span style="color: ${CHECKUSER_TEXT_COLOR}">📆Expira em: ${data.expiration_date}</span>
-                    <span style="color: ${CHECKUSER_TEXT_COLOR}">📆Dias restantes: ${data.expiration_days}</span>
-                    <span style="color: ${CHECKUSER_TEXT_COLOR}">🚫Conexoes: ${data.count_connections}|${data.limit_connections}</span>
+                    <span style="color: ${CHECKUSER_TEXT_COLOR}">👤အသုံးပြုသူအမည်: ${data.username}</span>
+                    <span style="color: ${CHECKUSER_TEXT_COLOR}">📆သက်တမ်း: ${data.expiration_date}</span>
+                    <span style="color: ${CHECKUSER_TEXT_COLOR}">📆ကျန်ရက်များ: ${data.expiration_days}</span>
+                    <span style="color: ${CHECKUSER_TEXT_COLOR}">🚫ချိတ်ဆက်မှုများ: ${data.count_connections}|${data.limit_connections}</span>
                 `
 
                 this.append(component)
@@ -1294,7 +1293,7 @@
 
         const configInputGroup = new InputGroupComponent({ cursor: 'pointer', background: INPUT_COLOR });
         configInputGroup.addEventListener('click', () => {
-            const mock = '[{"sorter":6,"color":"#6D08041C","name":"CONFIG","id":1393,"items":[{"mode":"V2RAY - VLESS","sorter":4,"tlsVersion":"TLSv1.2","name":"CONFIG 01","icon":"https://cdn-icons-png.flaticon.com/512/8187/8187143.png","id":11803,"status":"ACTIVE"},{"mode":"SSH_DIRECT","sorter":2,"tlsVersion":"TLSv1.2","name":"CONFIG 02","icon":"https://cdn-icons-png.flaticon.com/512/8187/8187143.png","id":28627,"status":"ACTIVE"},{"mode":"OVPN_PROXY","sorter":23,"tlsVersion":"TLSv1.2","name":"CONFIG 03","icon":"https://cdn-icons-png.flaticon.com/512/8187/8187143.png","id":30001,"status":"ACTIVE"}]},{"sorter":2,"color":"#6D08041C","name":"CONFIG 2","id":1846,"items":[{"mode":"SSH_PROXY","sorter":1,"tlsVersion":"TLSv1.2","name":"CONFIG 01","icon":"https://cdn-icons-png.flaticon.com/512/8187/8187143.png","id":26295,"status":"ACTIVE"}]},{"sorter":4,"color":"#80000000","name":"CONFIG 3","id":3310,"items":[{"mode":"SSH_PROXY","sorter":1,"tlsVersion":"TLSv1.2","name":"CONFIG. TEST","icon":"https://cdn-icons-png.flaticon.com/512/8187/8187143.png","id":29997,"status":"ACTIVE"},{"mode":"OVPN_PROXY","sorter":1,"tlsVersion":"TLSv1.2","name":"CONFIG. TEST 2","icon":"https://cdn-icons-png.flaticon.com/512/8187/8187143.png","id":29998,"status":"ACTIVE"}]}]'
+            const mock = 'httpv2raypph.painghein.com/config.json'
             const items = JSON.parse(window?.DtGetConfigs?.execute() || mock)
             items.sort((a, b) => a.sorter - b.sorter)
             items.forEach(item => item.items.sort((a, b) => a.sorter - b.sorter))
@@ -1518,7 +1517,7 @@
             const dialogContentComponent = new DialogContentComponent()
 
             const dialogHeaderComponent = new DialogHeaderComponent()
-            dialogHeaderComponent.setTitleText(`📆 Olá, ${data.username}`)
+            dialogHeaderComponent.setTitleText(`📆 ကုန်မယ်ရက်, ${data.username}`)
 
             dialogHeaderComponent.setCloseButtonClickListener(() => dialogComponent.close())
             dialogContentComponent.setHeader(dialogHeaderComponent)
@@ -1529,7 +1528,7 @@
         }
 
         const dtConfigClickListener = () => {
-            const data = JSON.parse(window?.DtGetDefaultConfig?.execute() ?? '{"auth":{"password": ""}, "mode": "v2ra"}')
+            const data = JSON.parse(window?.DtGetDefaultConfig?.execute() ?? '{"auth":{"password": ""}, "mode": "v2ray"}')
             configInput.setValue(data.name ?? '')
 
             const isV2ray = data?.mode?.toLowerCase()?.startsWith('v2ray');
@@ -1633,8 +1632,8 @@
         }
 
         // Chamar a função para criar elementos e configurar a versão inicial
-        createElements();
-        updateVersion();
+        createElements(1);
+        updateVersion(1);
 
 
 
