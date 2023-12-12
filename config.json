@@ -21,7 +21,7 @@
             "payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "sni": "gedoc.vivo.com.br#www.alura.com.br#support.deezer.com#fitality.gr"
         },
-        "config_v2ray": null,
+        "config_v2ray": vmess://eyJhZGQiOiJwYWluZ2hlaW50cnVlLmR1Y2tkbnMub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0aHZpcDEwcGgucGFpbmdoZWluLmNvbSIsImlkIjoiaWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvS1NBMTdPM1AvIiwicG9ydCI6IjgwIiwicHMiOiLwn4e58J+HrVRILVRSVUUtVklQLUhuaW5laSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==,
         "created_at": "2023-07-24 18:20:49",
         "description": "Config exemplo mod",
         "dns_server": {
@@ -31,7 +31,7 @@
         "icon": "https://i.ibb.co/MkwFH27/DTphgswir8.png",
         "id": 67073,
         "mode": "SSH_PROXY",
-        "name": "VIVO 1 ➜ CONFIG 1 ➜ EASY",
+        "name": "VIVO 1 ➜ CONFIG 1 ➜ V2Ray",
         "proxy": {
             "host": "104.17.74.206#104.17.72.206#104.17.71.206#104.17.70.206#104.19.241.93#104.18.28.182#104.19.239.25#104.18.33.113#172.64.154.143#104.18.99.70#104.16.53.111#172.67.188.168#104.17.64.225",
             "port": 80
