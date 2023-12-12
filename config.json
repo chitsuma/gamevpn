@@ -21,7 +21,7 @@
             "payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
             "sni": "gedoc.vivo.com.br#www.alura.com.br#support.deezer.com#fitality.gr"
         },
-        "config_v2ray": "V2ray-VIP,
+        "config_v2ray": "V2ray-VIP",
         "created_at": "2023-07-24 18:20:49",
         "description": "Config exemplo mod",
         "dns_server": {
@@ -174,7 +174,7 @@
             "payload": null,
             "sni": ".web.whatsapp.com"
         },
-        "V2ray-VIP-2,
+        "V2ray-VIP-2",
         "created_at": "2023-07-24 18:44:14",
         "description": "Config exemplo mod",
         "dns_server": {
